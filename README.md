@@ -1,5 +1,4 @@
-### Hi there 👋
- 🌱 I’m currently learning Deep RL & NLP :)
+## Hi there 👋
 <!--
 **rickiwasho/rickiwasho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
