@@ -5,7 +5,7 @@ Soy Ricardo, un estudiante de ingeniería civil en Informática, entusiasta en i
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](http://novatorem-rickiwasho.vercel.app/)](https://open.spotify.com/user/12131343117)
+&nbsp; <br> [![Spotify](novatorem-xi-eight.vercel.app)](https://open.spotify.com/user/12131343117)
 
   </td>
   <td width="50%">
