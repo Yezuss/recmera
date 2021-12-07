@@ -7,7 +7,7 @@ Soy Ricardo, un estudiante de ingeniería civil en Informática, entusiasta en i
       
 &nbsp; <br> [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/1280520793)
 
-    </td>
+  </td>
   <td width="50%">
 <!-- feed start -->
 - Jan 14 - [Planning the Perfect Adversarial Attack](https://mlquant.substack.com/p/adversarial-attack-in-finance)
