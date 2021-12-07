@@ -2,15 +2,8 @@
 Soy Ricardo, un estudiante de ingeniería civil en Informática.  
 Actualmente, estoy cursando mi penúltimo año universitario. 
 
-<table width="100%"> 
-  <tr>
-  <td>
-      
-&nbsp; <br> [![Spotify](https://novatorem-xi-eight.vercel.app/api/spotify)](https://open.spotify.com/user/12131343117)
 
-  </td>
-  
-  </table>
+&nbsp; <br> [![Spotify](https://novatorem-xi-eight.vercel.app/api/spotify)](https://open.spotify.com/user/12131343117)
  
 <!--
 **rickiwasho/rickiwasho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
