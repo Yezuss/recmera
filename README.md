@@ -3,17 +3,12 @@ Soy Ricardo, un estudiante de ingeniería civil en Informática, entusiasta en i
 
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td>
       
 &nbsp; <br> [![Spotify](https://novatorem-xi-eight.vercel.app/api/spotify)](https://open.spotify.com/user/12131343117)
 
   </td>
-  <td width="50%">
-<!-- feed start -->
-
-<!-- feed end -->
-
-  </td>
+  
   </table>
  
 <!--
