@@ -4,18 +4,11 @@ Actualmente, estoy cursando mi penúltimo año universitario.
 
 <table width="100%"> 
   <tr>
-  <td width=50%>
+  <td>
       
 &nbsp; <br> [![Spotify](https://novatorem-xi-eight.vercel.app/api/spotify)](https://open.spotify.com/user/12131343117)
 
   </td>
-  <td width=50%>
-    <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](hhttps://www.linkedin.com/in/ricardo-coronado-mera-9a1145220/)
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/rickiwasho)
-    
-</p>
-  </td>  
   
   </table>
  
