@@ -15,7 +15,7 @@
 #### Connect with me: 
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" />](https://www.linkedin.com/in/ricardo-coronado-mera-9a1145220/)
 [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/60/60580.png" />](https://twitter.com/naturalfreqs) 
-[<img height="32" width="32" src="https://toppng.com/uploads/preview/new-black-instagram-logo-2020-11609370162ayxbdxlffo.png" />](https://www.instagram.com/rickiwasho/)
+[<img height="32" width="32" src="http://assets.stickpng.com/images/5ecec78673e4440004f09e77.png" />](https://www.instagram.com/rickiwasho/)
 
 
 <!-- feed end -->
