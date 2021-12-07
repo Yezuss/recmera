@@ -12,10 +12,10 @@
   <td width="50%">  
  
 <!-- feed start -->
-#### Mis redes sociales: 
-[<img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" />](https://www.linkedin.com/in/ricardo-coronado-mera-9a1145220/)     
-[<img height="28" width="28" src="https://w7.pngwing.com/pngs/815/101/png-transparent-www-mevrouwpak-nl-advertising-graphic-design-instagram-instagram-logo-business-advertising.png" />](https://www.instagram.com/rickiwasho/)    
-[<img height="28" width="28" src="https://cdn-icons-png.flaticon.com/512/60/60580.png" />](https://twitter.com/naturalfreqs)             
+#### Connect with me: 
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/61/61109.png" />](https://www.linkedin.com/in/ricardo-coronado-mera-9a1145220/)
+[<img height="32" width="32" src="hhttps://www.pinclipart.com/picdir/middle/158-1580825_instagram-icon-free-instagram-logo-black-clipart.png" />](https://www.instagram.com/rickiwasho/)
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/60/60580.png" />](https://twitter.com/naturalfreqs)             
 
 
 <!-- feed end -->
