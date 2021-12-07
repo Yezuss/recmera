@@ -1,6 +1,10 @@
 ## Hi there 👋
-
-&nbsp; <br> [![Spotify](https://novatorem-xi-eight.vercel.app/api/spotify)](https://open.spotify.com/user/12131343117)
+<table width=50%>
+ <tr>
+  <td>
+    &nbsp; <br> [![Spotify](https://novatorem-xi-eight.vercel.app/api/spotify)](https://open.spotify.com/user/12131343117)
+  </td>
+ </tr>
  
 <!--
 **rickiwasho/rickiwasho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
