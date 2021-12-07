@@ -5,14 +5,12 @@ Soy Ricardo, un estudiante de ingeniería civil en Informática, entusiasta en i
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/12131343117)
+&nbsp; <br> [![Spotify](http://novatorem-rickiwasho.vercel.app/)](https://open.spotify.com/user/12131343117)
 
   </td>
   <td width="50%">
 <!-- feed start -->
-- Jan 14 - [Planning the Perfect Adversarial Attack](https://mlquant.substack.com/p/adversarial-attack-in-finance)
-- Jan 08 - [History of Machine Learning in Finance and Economics](https://mlquant.substack.com/p/history-of-machine-learning-in-finance)
-- Jan 08 - [Machine Learning in Asset Management&#8202;&#8212;&#8202;Trading Strategies](https://mlquant.substack.com/p/machine-learning-in-asset-management-trading-strategies-b7ae163e7809)
+
 <!-- feed end -->
 
   </td>
