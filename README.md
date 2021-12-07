@@ -1,5 +1,6 @@
 ## Hi there 👋
-Soy Ricardo, un estudiante de ingeniería civil en Informática, entusiasta en inteligencia artificial y tratamiento automático del lenguaje. Actualmente, estoy cursando mi penúltimo año universitario. 
+Soy Ricardo, un estudiante de ingeniería civil en Informática.  
+Actualmente, estoy cursando mi penúltimo año universitario. 
 
 <table width="100%"> 
   <tr>
