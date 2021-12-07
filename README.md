@@ -12,8 +12,9 @@
   <td width="50%">  
  
 <!-- feed start -->
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />    
+### Contact me: 
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][https://www.linkedin.com/in/ricardo-coronado-mera-9a1145220/]
+[<img height="32" width="32" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" />][https://www.instagram.com/rickiwasho/]          
 
 <!-- feed end -->
 
