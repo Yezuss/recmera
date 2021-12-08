@@ -9,7 +9,7 @@
     
   </td>
    
-  <td width="50%">  
+  <td width="50%" align-items="center">  
  
 <!-- feed start -->
 #### Connect with me: 
