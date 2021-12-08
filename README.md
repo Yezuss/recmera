@@ -9,7 +9,7 @@
     
   </td>
    
-  <td width="20%">  
+  <td width="18%">  
  
 <br>
 <p align="left">Connect with me
