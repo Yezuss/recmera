@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+<table width="100%"> 
   <tr>
   <td width="50%">
     
@@ -9,7 +9,7 @@
     
   </td>
    
-  <td width="50%" align-items="center">  
+  <td width="50%">  
  
 <!-- feed start -->
 #### Connect with me: 
