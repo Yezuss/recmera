@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hola 👋
 
-
+Mi nombre es Ricardo Coronado. Soy estudiante de Ingeniería civil en Informática. Me interesa la inteligencia artificial y el tratamiento automático del lenguaje.
 <table width="100%"> 
   <tr>
   <td width="50%">
@@ -12,7 +12,7 @@
   <td width="18%">  
  
 <br>
-<p align="left">Connect with me:
+<p align="left">Conversemos:
   
 [<img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/ricardo-coronado-mera-9a1145220/)
 [<img height="32" width="32" src="https://educationatw.com/wp-content/uploads/2019/08/Twitter-Logo.png" />](https://twitter.com/naturalfreqs)
