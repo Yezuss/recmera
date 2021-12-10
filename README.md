@@ -1,4 +1,4 @@
-## Hola 👋
+## Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 Mi nombre es Ricardo Coronado. Soy estudiante de Ingeniería civil en Informática. Me interesa la inteligencia artificial y el tratamiento automático del lenguaje.
 <table width="100%"> 
