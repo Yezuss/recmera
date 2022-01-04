@@ -1,10 +1,10 @@
 # Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 Mi nombre es Ricardo Coronado y soy estudiante de Ingeniería civil en Informática.   
-Me interesa la inteligencia artificial y el tratamiento automático del lenguaje.
+Me interesa la inteligencia artificial y el procesamiento de lenguaje natural.
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="30%">
     
   &nbsp; <br> [![Spotify](https://novatorem-xi-eight.vercel.app/api/spotify)](https://open.spotify.com/user/12131343117)
     
