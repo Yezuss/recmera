@@ -14,7 +14,7 @@
     
   </td>
    
-  <td width="18%">  
+  <td width="18%" align="center">  
  
 <br>
 <p align="left">Conversemos:
