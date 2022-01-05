@@ -1,8 +1,12 @@
-# Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1> 
 
-Mi nombre es Ricardo Coronado y soy estudiante de Ingeniería civil en Informática.   
-Me interesa la inteligencia artificial y el procesamiento de lenguaje natural.
-<table width="100%"> 
+<h4 align="center">
+  Mi nombre es Ricardo Coronado y soy estudiante de Ingeniería civil en Informática.   
+</h4>
+<h4 align="center">
+  Me interesa la inteligencia artificial y el procesamiento de lenguaje natural.
+</h4>
+<table width="100%" align="center"> 
   <tr>
   <td width="30%">
     
