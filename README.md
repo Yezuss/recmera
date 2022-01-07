@@ -4,7 +4,7 @@
   Mi nombre es Ricardo Coronado y soy estudiante de Ingeniería civil en Informática.   
 </h4>
 <h4 align="center">
-  Me interesa la inteligencia artificial y el procesamiento de lenguaje natural.
+  Me interesa la ciencia de datos, inteligencia artificial y el procesamiento de lenguaje natural.
 </h4>
 <table width="100%" align="center"> 
   <tr>
