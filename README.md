@@ -8,10 +8,10 @@
 </h4>
 
 <details>
- <summary>Duck</summary>
+ <summary>Click me!</summary>
  <p>
    
-![Duck](https://media.king5.com/assets/KING/images/40592af6-a314-463f-b1dd-391362a31636/40592af6-a314-463f-b1dd-391362a31636_1920x1080.jpg)
+![Duck](https://b.thumbs.redditmedia.com/MBnMsJlhrm3h3G2jGL-iT_C7nQbpfOGGbFaimbovjUc.png)
    
 </p>
 </details>
