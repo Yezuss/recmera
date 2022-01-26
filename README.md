@@ -7,9 +7,9 @@
   Me interesa la ciencia de datos, inteligencia artificial y el procesamiento de lenguaje natural.
 </h4>
 
-<details align="center">
- <summary>Click me!</summary>
- <p>
+<details>
+ <summary align="center" >Click me!</summary>
+ <p align="center">
    
 ![Duck](https://b.thumbs.redditmedia.com/MBnMsJlhrm3h3G2jGL-iT_C7nQbpfOGGbFaimbovjUc.png)
    
