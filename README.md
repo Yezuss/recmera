@@ -7,7 +7,7 @@
   Me interesa la ciencia de datos, inteligencia artificial y el procesamiento de lenguaje natural.
 </h4>
 
-<details>
+<details align="center">
  <summary>Click me!</summary>
  <p>
    
