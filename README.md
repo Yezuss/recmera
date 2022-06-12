@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1> 
+<h1 align="center">Hola, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> </h1> 
 
 <h4 align="center">
   Mi nombre es Ricardo Coronado y soy estudiante de Ingeniería civil en Informática.   
