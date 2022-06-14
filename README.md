@@ -1,4 +1,6 @@
-<h1> Hola, </h1> 
+<h1 align="center">
+  <img src="https://i.gifer.com/6mG.gif" width="30px"/>
+  Hola, </h1> 
 
 <h4 align="center">
   mi nombre es Ricardo Coronado y soy estudiante de Ingeniería civil en Informática.   
