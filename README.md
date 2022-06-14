@@ -1,4 +1,4 @@
-<h1 align="center">Hola, </h1> 
+<h1> Hola, </h1> 
 
 <h4 align="center">
   mi nombre es Ricardo Coronado y soy estudiante de Ingeniería civil en Informática.   
