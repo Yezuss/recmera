@@ -1,10 +1,7 @@
-
+![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)
 
 <h4 align="center">
-  ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)
-  
-  
-  [Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes) 
+[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes) 
 </h4>
 <h5 align="center">
   Me interesa la ciencia de datos, inteligencia artificial y el procesamiento de lenguaje natural.
