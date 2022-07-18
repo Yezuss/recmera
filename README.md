@@ -1,12 +1,12 @@
-### Hello there!
 
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
-[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
 
-<h4>
-  mi nombre es Ricardo Coronado y soy estudiante de Ingeniería civil en Informática.   
+<h4 align="center">
+  ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)
+  
+  
+  [Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes) 
 </h4>
-<h5>
+<h5 align="center">
   Me interesa la ciencia de datos, inteligencia artificial y el procesamiento de lenguaje natural.
 </h5>
 
