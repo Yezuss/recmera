@@ -1,6 +1,7 @@
-<h1 align="center">
+### Hello there!
 
-  Hola, </h1> 
+![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
 
 <h4 align="center">
   mi nombre es Ricardo Coronado y soy estudiante de Ingeniería civil en Informática.   
