@@ -1,22 +1,10 @@
 ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)
-
-<h4 align="center">
 [Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes) 
-</h4>
-<h5 align="center">
-  Me interesa la ciencia de datos, inteligencia artificial y el procesamiento de lenguaje natural.
-</h5>
 
-<details>
- <summary align="center" >Click me!</summary>
- <p align="center">
-   
-![Duck](https://b.thumbs.redditmedia.com/MBnMsJlhrm3h3G2jGL-iT_C7nQbpfOGGbFaimbovjUc.png)
-   
-</p>
-</details>
 
-<table width="100%" align="center"> 
+#### _Me interesa la ciencia de datos, la inteligencia artificial y el procesamiento de lenguaje natural._
+
+<table width="100%"> 
   <tr>
   <td width="30%">
     
