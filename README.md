@@ -1,6 +1,4 @@
 ![](/IndelibleSorrowfulBlackbear-size_restricted.gif)
-
-
 [Source](https://gfycat.com/indeliblesorrowfulblackbear-hello-there-star-wars-prequelmemes)
 
 
