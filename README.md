@@ -1,7 +1,7 @@
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)
+![](/IndelibleSorrowfulBlackbear-size_restricted.gif)
 
 
-[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes) 
+[Source](https://gfycat.com/indeliblesorrowfulblackbear-hello-there-star-wars-prequelmemes) 
 
 
 #### _Me interesa la ciencia de datos, la inteligencia artificial y el procesamiento de lenguaje natural._
