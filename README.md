@@ -2,7 +2,6 @@
 
 
 [Source](https://gfycat.com/indeliblesorrowfulblackbear-hello-there-star-wars-prequelmemes)
-![](https://komarev.com/ghpvc/?username=rickiwasho&color=red)
 
 
 #### _Me interesa la ciencia de datos, la inteligencia artificial y el procesamiento de lenguaje natural._
@@ -29,3 +28,4 @@
 
   </td>
 </table>
+![](https://komarev.com/ghpvc/?username=rickiwasho&color=red)
