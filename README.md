@@ -5,7 +5,7 @@
 #### _Me interesa la ciencia de datos, la inteligencia artificial y el procesamiento de lenguaje natural._
 
 -->
-<table width="100%"> 
+<table width="90%"> 
   <tr>
   <td width="30%">
     
